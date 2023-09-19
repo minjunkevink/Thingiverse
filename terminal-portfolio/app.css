@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.terminal-base {
+  width: 80%;
+  max-width: 800px;
+  height: 80%;
+  border-radius: 10px;
+}
+
